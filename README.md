@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JurassicDragon
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning Java and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "tymekchmurajd@gmail.com"
 
